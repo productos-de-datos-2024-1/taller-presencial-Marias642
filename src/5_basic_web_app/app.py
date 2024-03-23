@@ -88,4 +88,3 @@ if __name__ == "__main__":
     logging.info("Starting the application")
     app.run(debug=True)
     logging.info("Aplication termined")
-    
