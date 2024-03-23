@@ -34,7 +34,6 @@ def create_datalake(dirs):
         if not os.path.exists(path):
             os.makedirs(path)
 
-
 def main():
     """Orchestrates the creation of the datalake"""
 
